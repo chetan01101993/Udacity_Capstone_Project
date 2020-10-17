@@ -26,18 +26,16 @@ Libraries and respective version are:
 * train.csv
 * test.csv
 
-Notebooks:
-EDA.ipynb : Notebook to understand features and relationships
+## Notebooks:
+* EDA.ipynb : Notebook to understand features and relationships
+* FeatureEngineering_and_Modelling.ipynb : Notebook to clean data, generate features, train model and dump final model
 
-FeatureEngineering_and_Modelling.ipynb : Notebook to clean data, generate features, train model and dump final model
+## Model:
+* finalized_model.pkl : Final model pickle file to consume
 
-Model:
-finalized_model.pkl : Final model pickle file to consume
-
-Document:
-Project Report: A detailed comprehensive report about the  Capstone Project
-
-proposal: Document defining Capstone Project proposal
+## Document:
+* Project Report: A detailed comprehensive report about the  Capstone Project
+* proposal: Document defining Capstone Project proposal
 
 
 
